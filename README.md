@@ -1,16 +1,21 @@
-## Hi there 👋
+ 👋 Hi, I'm Udogri Oruaro
 
-<!--
-**udogri/udogri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about **building user-friendly web apps** and exploring **Open source**.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **TypeScript** and **Next.js**  
+- 🛠️I'm currently working on a School Management System [ONE BY ONE](https://onebyone.ng/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Interested in **open source contributions Projects** and **building user-friendly web apps**  
+
+ 🧰 Tech Stack
+Here are some tools and technologies I use:
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+- **Frontend:** React, Next.js, Tailwind CSS, Chakra UI  
+- **Backend:** Node.js, Firebase  
+- **Others:** Git, GitHub, VS Code
+
+🌍 Let's Connect!
+- Twitter: [@Oruaro6](https://x.com/Oruaro6)
+- LinkedIn: [udogri oruaro](https://www.linkedin.com/in/udogri-oruaro/)
+- mail: [udogri](oudogri@gmail.com)
