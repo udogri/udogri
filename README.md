@@ -3,7 +3,7 @@
 I'm a **Frontend Developer** passionate about **building user-friendly web apps** and exploring **Open source**.
 
 - 🌱 Currently learning **TypeScript** and **Next.js**  
-- 🛠️I'm currently working on a School Management System [ONE BY ONE](https://onebyone.ng/)
+- 🛠️ Excited to share that the School Management System project I was part of the development team for has just gone live: [ONE BY ONE](https://onebyone.ng/)
 
 - 💡 Interested in **open source contributions Projects** and **building user-friendly web apps**  
 
